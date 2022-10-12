@@ -15,8 +15,3 @@ R Python Django Apache Airflow MySQL SQLite Figma NumPy Pandas Docker Notion Jir
 ![image](https://user-images.githubusercontent.com/91124555/195370453-744a3773-5b35-42b3-b860-cb3384e179f6.png)
 
 
-
-
-
-😂 Random Dev Meme
-![image](https://user-images.githubusercontent.com/91124555/195370521-cc77f788-a814-4492-a533-3bc2e570d731.png)
