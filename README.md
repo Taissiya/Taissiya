@@ -1,12 +1,3 @@
-💫 About Me:
-👋 Hi, I’m @Taissiya
-👀 I’m interested in Data Science
-🌱 I’m currently learning BDA
-🌟 winner of Tumaris.Hack 2022
-👾(https://tumaris.tech/tumarishack)
-
-💻 Tech Stack:
-R Python Django Apache Airflow MySQL SQLite Figma NumPy Pandas Docker Notion Jira Prezi Trello
 
 📊 GitHub Stats:
 
