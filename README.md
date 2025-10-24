@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on RPS Asia<br>👯 I’m looking to collaborate on interesting projects as a system analyst<br>🌱 I’m currently learning software architecture<br>
+
 
 
 ## 🌐 Socials:
